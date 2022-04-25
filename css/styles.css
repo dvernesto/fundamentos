@@ -84,7 +84,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     ),
-     url(/e-commerce/assets/images/portada-intro.jpg);
+     url(./assets/images/portada-intro.jpg);
      background-repeat: no-repeat;
      background-size: cover;
      background-position: center center;
@@ -112,7 +112,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     ),
-     url(/e-commerce/assets/images/portada-sucus.jpg);
+     url(./assets/images/portada-sucus.jpg);
      background-repeat: no-repeat;
      background-size: cover;
      background-position: center center;
@@ -131,7 +131,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     ),
-     url(/e-commerce/assets/images/portada-cactus.jpg);
+     url(./assets/images/portada-cactus.jpg);
      background-repeat: no-repeat;
      background-size: cover;
      background-position: center center;
@@ -150,7 +150,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     ),
-     url(/e-commerce/assets/images/portada-arreglos.jpg);
+     url(./assets/images/portada-arreglos.jpg);
      background-repeat: no-repeat;
      background-size: cover;
      background-position: center center;
@@ -169,7 +169,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     ),
-     url(/e-commerce/assets/images/maceta-portada.jpg);
+     url(./assets/images/maceta-portada.jpg);
      background-repeat: no-repeat;
      background-size: cover;
      background-position: center center;
